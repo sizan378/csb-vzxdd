@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://sizan378.github.io/csb-vzxdd/static/css/main.c556c1e4.chunk.css",
+    "main.js": "https://sizan378.github.io/csb-vzxdd/static/js/main.5be40707.chunk.js",
+    "main.js.map": "https://sizan378.github.io/csb-vzxdd/static/js/main.5be40707.chunk.js.map",
+    "runtime-main.js": "https://sizan378.github.io/csb-vzxdd/static/js/runtime-main.32fedc5e.js",
+    "runtime-main.js.map": "https://sizan378.github.io/csb-vzxdd/static/js/runtime-main.32fedc5e.js.map",
+    "static/css/2.e907a85a.chunk.css": "https://sizan378.github.io/csb-vzxdd/static/css/2.e907a85a.chunk.css",
+    "static/js/2.9e4aac0d.chunk.js": "https://sizan378.github.io/csb-vzxdd/static/js/2.9e4aac0d.chunk.js",
+    "static/js/2.9e4aac0d.chunk.js.map": "https://sizan378.github.io/csb-vzxdd/static/js/2.9e4aac0d.chunk.js.map",
+    "index.html": "https://sizan378.github.io/csb-vzxdd/index.html",
+    "static/css/2.e907a85a.chunk.css.map": "https://sizan378.github.io/csb-vzxdd/static/css/2.e907a85a.chunk.css.map",
+    "static/css/main.c556c1e4.chunk.css.map": "https://sizan378.github.io/csb-vzxdd/static/css/main.c556c1e4.chunk.css.map",
+    "static/js/2.9e4aac0d.chunk.js.LICENSE.txt": "https://sizan378.github.io/csb-vzxdd/static/js/2.9e4aac0d.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "https://sizan378.github.io/csb-vzxdd/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32fedc5e.js",
+    "static/css/2.e907a85a.chunk.css",
+    "static/js/2.9e4aac0d.chunk.js",
+    "static/css/main.c556c1e4.chunk.css",
+    "static/js/main.5be40707.chunk.js"
+  ]
+}
